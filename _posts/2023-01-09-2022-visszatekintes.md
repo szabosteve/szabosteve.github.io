@@ -14,7 +14,7 @@ csak párat – kettőt összesen –, ezt a számot remélem idén lesz alkalma
 fentebb tornászni, mert van pár cím a listámon, amiket régóta szeretnék 
 kipróbálni.
 
-![Symbaroum – Treasure Hunts in Davokar](/assets/sym-treasure-hunt.jpeg)
+![Symbaroum – Treasure Hunts in Davokar](/assets/sym-treasure-hunts.jpeg)
 
 
 ## Kampányok
